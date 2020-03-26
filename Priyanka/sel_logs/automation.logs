@@ -1,0 +1,6 @@
+25/03/2020 12:51:38 devpinoyLogger chrome browser Successfully Launched!!
+25/03/2020 12:51:40 devpinoyLogger clicked on Login link
+25/03/2020 12:51:42 devpinoyLogger ScreenShot taken in name of LoginCredentials.png
+25/03/2020 12:51:42 devpinoyLogger  login checked for data peacepriyanka@gmail.com P55252555
+25/03/2020 12:52:23 devpinoyLogger Exception in WaitForElement method
+25/03/2020 12:52:33 devpinoyLogger Exception in elementToBeClickable method
